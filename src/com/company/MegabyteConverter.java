@@ -1,6 +1,6 @@
 package com.company;
 
-public class KiloByte {
+public class MegabyteConverter {
     private int kilobytes =0;
 
 
